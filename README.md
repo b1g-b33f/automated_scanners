@@ -7,4 +7,4 @@
 example: ./scanner.sh google.com  
 
 **webscanner.sh**  
-just adds nmap
+- just adds nmap
