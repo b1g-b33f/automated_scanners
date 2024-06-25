@@ -4,7 +4,7 @@
 - Basic website OSINT script  
 - Run with ./scanner.sh (website)  
 - Uncomment amass to have it included  
-example: ./scanner.sh google.com  
+_example: ./scanner.sh google.com_  
 
 **webscanner.sh**  
 - just adds nmap
