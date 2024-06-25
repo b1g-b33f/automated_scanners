@@ -1,4 +1,4 @@
-# automated_scanners  
+# Web OSINT  
 
 **scanner.sh**  
 - Basic website OSINT script  
